@@ -1,5 +1,5 @@
 # react counter project
-basic responsive site with sleek design patterns
+components are building blocks
 [check out live site](https://counterprojectreact.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
