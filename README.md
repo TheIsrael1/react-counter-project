@@ -1,5 +1,5 @@
 # react counter project 🖩
-fintech startup
+counter app
 
 ## Stack
 React
