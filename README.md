@@ -1,4 +1,4 @@
-# react counter project 💸
+# react counter project 🖩
 fintech startup
 
 ## Stack
