@@ -1,8 +1,12 @@
-# react counter project
-components are building blocks
-[check out live site](https://counterprojectreact.netlify.app/)
+# react counter project 💸
+fintech startup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Stack
+React
+## Live link [counter app](https://counterprojectreact.netlify.app/)
+
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
